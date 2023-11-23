@@ -1,0 +1,7 @@
+### folder to be ignore
+datasets/
+plots/
+generated_images/
+
+### Others files
+.envrc
